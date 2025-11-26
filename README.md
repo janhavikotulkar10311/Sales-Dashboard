@@ -1,6 +1,8 @@
 # Sales-Dashboard
 1. Project Title & Headline
+   
 Sales Performance Analytics Dashboard
+
 A dynamic Power BI dashboard for tracking e-commerce KPIs, analyzing sales trends, and deriving actionable business insights.
 
 3. Short Description / Purpose
